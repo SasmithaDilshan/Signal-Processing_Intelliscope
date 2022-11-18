@@ -1,2 +1,2 @@
 # Signal-Processing_Intelliscope
-BM related project initialtion
+BM related project initiation
